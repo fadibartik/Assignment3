@@ -1,10 +1,6 @@
 #Code Book
 
-##This document describe the R code provided
-
-The code is split in the 5 parts that are required
-
-The Files present
+##Description of the input data
 
 * 'features_info.txt': Shows information about the variables used
 * 'features.txt': features list
